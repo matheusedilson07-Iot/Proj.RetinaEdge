@@ -48,3 +48,6 @@ Desenvolver uma solução portátil para auxiliar profissionais de saúde na tri
                   /      |      \
                  /       |       \
           pacientes   medicos   laudos
+
+
+Link do acesso ao site: https://matheusedilson07-iot.github.io/Proj.RetinaEdge/ 
